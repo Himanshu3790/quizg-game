@@ -1,0 +1,25 @@
+body
+{
+background-image: radial-gradient(red, rgb(255, 115, 0), rgb(230, 177, 6), rgb(231, 235, 8), rgb(226, 241, 4), rgb(195, 247, 7), rgb(53, 240, 6), rgb(0, 255, 128), rgb(0, 253, 219));
+background-size: contain;
+background-position: center;
+text-align: center;
+}
+img{
+	width: 200px;
+	height: 200px;
+}
+
+	.login_div1 
+	{
+		background-color: transparent;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+	#player_1_name , #player_2_name
+	{
+		display: inline-block;
+		margin-left: 20px;
+	}
+	
